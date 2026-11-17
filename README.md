@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:2b2f4a,100:70a5fd&height=210&section=header&text=Maria%20Leit%C3%A3o&fontSize=58&fontColor=c0caf5&fontAlignY=36&desc=Data%20Engineer%20%C2%B7%20Software%20Engineer%20%C2%B7%20MSc%20Data%20Science&descSize=17&descAlignY=58&descAlign=50&animation=fadeIn" width="100%" alt="Maria Leitão banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:2b2f4a,100:70a5fd&height=210&section=header&text=Maria%20Leit%C3%A3o&fontSize=58&fontColor=c0caf5&fontAlignY=36&desc=AI%20Data%20Engineer%20%C2%B7%20Software%20Engineer%20%C2%B7%20MSc%20Data%20Science&descSize=17&descAlignY=58&descAlign=50&animation=fadeIn" width="100%" alt="Maria Leitão banner"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=900&color=70A5FD&center=true&vCenter=true&width=620&lines=I+turn+scattered+data+into+decisions.;ETL+%C2%B7+Data+Pipelines+%C2%B7+Data+Modeling;Python+%C2%B7+SQL+%C2%B7+PostgreSQL+%C2%B7+AWS;From+ingestion+all+the+way+to+production." alt="Typing SVG"/>
@@ -26,9 +26,7 @@
 <a href="https://www.linkedin.com/in/amarialeitao/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:malufln.99@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/></a>
 <a href="https://github.com/amarialeitao?tab=repositories"><img src="https://img.shields.io/badge/Repositories-1a1b27?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/></a>
-<!-- Portfolio: marialuizaleitao.github.io/me/ was unreachable on 2026-10-23. Re-enable once it is back online:
-<a href="https://marialuizaleitao.github.io/me/"><img src="https://img.shields.io/badge/Portfolio-bf91f3?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/></a>
--->
+<a href="https://amarialeitao.github.io/me/"><img src="https://img.shields.io/badge/Portfolio-bf91f3?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/></a>
 
 </div>
 
@@ -40,7 +38,7 @@
 
 ```yaml
 name: Maria Leitão
-role: Data Engineer @ Instituto Semear
+role: AI Data Engineer @ Instituto Semear
 based_in: Lisbon, Portugal
 experience: 3+ years across data engineering, analytics and software engineering
 focus: [ETL, data pipelines, data modeling, people analytics, AI-powered automation]
@@ -51,7 +49,7 @@ fun_fact: State Kung Fu Champion 🥋
 - 📊 **Data that drives decisions:** I built a People Analytics platform that brought **10,000+ scholarship applications from 5 years** into one place, with automated cleaning, KPIs and executive reports that help leadership spot trends and potential bias.
 - 🤖 **AI in the pipeline:** I built an LLM-powered HR pipeline that turns CVs into structured datasets, saving **~$1,000/year** in platform costs.
 - 🏗️ **End-to-end mindset:** my software engineering background (Go, Java/Spring Boot, NestJS, Docker, CI/CD, AWS) lets me take a data solution from ingestion to production.
-- 🔭 **Currently building:** football recruitment analytics on open data, and a hybrid PostgreSQL + MongoDB system for a martial-arts academy.
+- 🔭 **Recently shipped:** [football recruitment analytics](https://football-recruitment-analytics.streamlit.app) on open data. **Currently building:** a hybrid PostgreSQL + MongoDB system for a martial-arts academy.
 - 🌱 **Currently learning:** machine learning and statistics (MSc), plus information security (postgraduate).
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
@@ -203,7 +201,7 @@ Go microservices that parse and encode GPS tracker data in a distributed workflo
 |:--|:--|:--|
 | ⚽ **[world-cup-intelligence-center](https://github.com/amarialeitao/world-cup-intelligence-center)** | Sports intelligence platform orchestrated by n8n: collects live World Cup 2026 data, processes events, generates GPT-4o analyses, monitors social sentiment and sends alerts. | ![n8n](https://img.shields.io/badge/-n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white) ![TimescaleDB](https://img.shields.io/badge/-TimescaleDB-FDB515?style=flat-square&logo=timescale&logoColor=black) ![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white) |
 | 🥋 **[mykungfuacademy](https://github.com/amarialeitao/mykungfuacademy)** | Hybrid database system: a PostgreSQL relational core for academy operations and student progression, with MongoDB for content, wearable telemetry and training analytics. | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![ER Modeling](https://img.shields.io/badge/-ER_Modeling-2b2f4a?style=flat-square) |
-| 🔎 **[football-recruitment-analytics](https://github.com/amarialeitao/football-recruitment-analytics)** <sub>`WIP`</sub> | Recruitment analytics for Liga Portugal and comparable leagues: player profiles, similar players, value and potential, with confidence levels on every insight. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Open Data](https://img.shields.io/badge/-Open_Data-2b2f4a?style=flat-square) |
+| 🔎 **[football-recruitment-analytics](https://github.com/amarialeitao/football-recruitment-analytics)** <sub>[live demo](https://football-recruitment-analytics.streamlit.app)</sub> | Recruitment analytics for Liga Portugal and comparable leagues: player profiles, similar players, value and potential, with confidence levels on every insight. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Open Data](https://img.shields.io/badge/-Open_Data-2b2f4a?style=flat-square) |
 | 🏎️ **[F1-Grid-Analysis](https://github.com/amarialeitao/F1-Grid-Analysis)** | Statistical analysis of how grid position affects Formula 1 race results. | ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white) ![RStudio](https://img.shields.io/badge/-RStudio-75AADB?style=flat-square&logo=rstudioide&logoColor=white) |
 | ✅ **[task-manager](https://github.com/amarialeitao/task-manager)** | Full stack task manager following SOLID and Clean Architecture, with JWT auth, automated tests and CI. | ![Django](https://img.shields.io/badge/-DRF-092E20?style=flat-square&logo=django&logoColor=white) ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Actions](https://img.shields.io/badge/-Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) |
 | 🧱 **[restful-api-clean-arch](https://github.com/amarialeitao/restful-api-clean-arch)** | RESTful API applying DDD, Clean Architecture, design patterns and SOLID, with unit, integration and e2e tests. | ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
@@ -225,6 +223,7 @@ Reach out for collaborations, opportunities, or just to talk about F1, football 
 
 <br/>
 
+<a href="https://amarialeitao.github.io/me/"><img src="https://img.shields.io/badge/Visit_my_portfolio-bf91f3?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/></a>
 <a href="https://www.linkedin.com/in/amarialeitao/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:malufln.99@gmail.com"><img src="https://img.shields.io/badge/malufln.99@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/></a>
 
