@@ -37,10 +37,10 @@
 
 ```yaml
 name: Maria Leitão
-role: AI Data Engineer @ Instituto Semear
+role: Junior AI/ML Engineer @ Accenture Portugal  # Belfius-Accenture joint venture
 based_in: Lisbon, Portugal
 experience: 3+ years across data engineering, analytics and software engineering
-focus: [ETL, data pipelines, data modeling, people analytics, AI-powered automation]
+focus: [machine learning, generative AI, data pipelines, financial crime prevention, AI-powered automation]
 studying: MSc Data Science @ Faculdade de Ciências, ULisboa  # ML & Statistics
 fun_fact: State Kung Fu Champion 🥋
 ```
